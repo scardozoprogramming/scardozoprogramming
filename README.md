@@ -2,7 +2,8 @@
 
 # 💫 About Me:
 🔭 I’m currently working on videogame programming<br>
-🌱 I’m currently learning mechanics and more about unity and unreal motors
+🌱 I’m currently learning mechanics and more about unity
+🌱 I’m currently learning webpage with html, java, css.
 
 
 # 💻 Tech Stack:
